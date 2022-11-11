@@ -8,3 +8,9 @@
 #El Copia de Alexis Quispe SpaceX - 1 - Data Collection Api era un ejercicio de pandas donde se exploraban los datos
 #El Copia de SpaceX Alexis Quispe - 2 - EDA era uno de manipulacion datos y calculos
 #El Copia de SpaceX Alexis Quispe- 3 -EDA Using SQL el mismo de los demas, pero aqui se crean tablas, seleccion de tuplas....
+
+#archivosbigdata hoy dia 11/11/22 se subieron los archivos de ejercicios de Folium, Scikit-Learn,Prophet,Regresion..
+#El Copia de Prophet Alexis Quispe- Predecir el valor del Oro era un ejercicio donde se usa Prophet para hacer modelos de predicciones
+#El Copia de M5 Alexis Quispe - 06 - Introducción a Machine Learning con Scikit-Learn.ipynb era un modelo de prediccion como ejemplos para las regresiones
+#El Copia de Alexis Quispe M5 - 09 - Folium.ipynb era un ejercicio de hacer mapas geograficos
+#El Copia de Alexis Quispe M5 - 07 - Regresión.ipynb era el uso de las funciones de regresiones
