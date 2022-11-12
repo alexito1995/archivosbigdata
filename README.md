@@ -14,3 +14,7 @@
 #El Copia de M5 Alexis Quispe - 06 - Introducción a Machine Learning con Scikit-Learn.ipynb era un modelo de prediccion como ejemplos para las regresiones
 #El Copia de Alexis Quispe M5 - 09 - Folium.ipynb era un ejercicio de hacer mapas geograficos
 #El Copia de Alexis Quispe M5 - 07 - Regresión.ipynb era el uso de las funciones de regresiones
+
+#archivosbigdata hoy dia 12/11/22 se subieron los archivos de ejercicios de Folium aplicado a Space, Machine Learning..
+#El Copia de Alexis Quispe M5 - SPACEX2 - 5 - Interactive Visual Analytics con Folium.ipynb era un ejercicio donde se usa Folium para hacer mapas de donde van a caer los cohetes
+#El Copia de Alexis Quispe de M5 - SPACEX2 - 6 - Machine Learning Predicciones.ipynb era un modelo de prediccion como ejemplos para las regresiones aplica a SPACEX2
